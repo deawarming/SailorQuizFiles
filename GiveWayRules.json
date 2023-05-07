@@ -42,5 +42,49 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "question": "tredje spørgsmål:",
+    "image": "https://raw.githubusercontent.com/deawarming/SailorQuizFiles/main/GiveWayRules_Pictures/givewayrules_2.svg",
+    "answers": [
+      {
+        "label": "A",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "fjerde spørgsmål:",
+    "image": "https://raw.githubusercontent.com/deawarming/SailorQuizFiles/main/GiveWayRules_Pictures/givewayrules_2.svg",
+    "answers": [
+      {
+        "label": "A",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "isCorrect": true
+      },
+      {
+        "label": "D",
+        "isCorrect": true
+      }
+    ]
   }
 ]

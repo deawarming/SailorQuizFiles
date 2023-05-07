@@ -1,22 +1,46 @@
 [
   {
     "question": "Two sailing A and B ship on collision course. Who gives way for who, and how? Choose the most correct answer:",
-    "image": "https://img2.inventoryiq.io/boats/7905043/7905043_20220531053021531_1_XLARGE.jpg",
-    "answers":[
-      {"label": "A gives way to B by going behind B", "isCorrect":true },
-      {"label": "B gives way to A by going behind A", "isCorrect":false},
-      {"label": "A gives way to B by stopping", "isCorrect":false},
-      {"label": "B gives way to A by stopping", "isCorrect":false}
+    "image": "https://raw.githubusercontent.com/deawarming/SailorQuizFiles/main/GiveWayRules_Pictures/givewayrules_1.svg",
+    "answers": [
+      {
+        "label": "A gives way to B by going behind B",
+        "isCorrect": true
+      },
+      {
+        "label": "B gives way to A by going behind A",
+        "isCorrect": false
+      },
+      {
+        "label": "A gives way to B by stopping",
+        "isCorrect": false
+      },
+      {
+        "label": "B gives way to A by stopping",
+        "isCorrect": false
+      }
     ]
   },
   {
-    "questions": "A sailing vessel A overtaking a power driven vessel B. Who gives way for who? Choose the most correct answer:",
-    "image": "https://img2.inventoryiq.io/boats/7905043/7905043_20220531053021531_1_XLARGE.jpg",
-    "answers":[
-      {"label": "B gives way to A by turning starboard", "isCorrect":false},
-      {"label": "A gives way to B choosing either side", "isCorrect":true},
-      {"label": "B gives way to A by turning port", "isCorrect":false},
-      {"label": "A gives way to B by stopping", "isCorrect":false}
+    "question": "A sailing vessel A overtaking a power driven vessel B. Who gives way for who? Choose the most correct answer:",
+    "image": "https://raw.githubusercontent.com/deawarming/SailorQuizFiles/main/GiveWayRules_Pictures/givewayrules_2.svg",
+    "answers": [
+      {
+        "label": "B gives way to A by turning starboard",
+        "isCorrect": false
+      },
+      {
+        "label": "A gives way to B choosing either side",
+        "isCorrect": true
+      },
+      {
+        "label": "B gives way to A by turning port",
+        "isCorrect": false
+      },
+      {
+        "label": "A gives way to B by stopping",
+        "isCorrect": false
+      }
     ]
   }
 ]
